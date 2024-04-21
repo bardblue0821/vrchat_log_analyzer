@@ -1,0 +1,378 @@
+*******************************
+  /mnt/c/Users/montb/AppData/LocalLow/VRChat/VRChat/output_log_2024-02-29_01-05-27.txt
+*******************************
+2024.02.29 01:06:05 Enter	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:34596~private(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.02.29 01:06:10 Video	'https://youtu.be/GtEpCZcHRkw?si=4jHspOM9JNYIMe0L'
+2024.02.29 01:06:10 In >>	もん ／ Montblanc
+2024.02.29 01:06:37 Out<<	もん ／ Montblanc
+2024.02.29 01:07:04 Enter	wrld_b2029c0c-7d81-41a6-ad38-18d1807b7152:65641~hidden(usr_173edb35-c816-4b5a-933d-870911d34060)~region(jp)
+2024.02.29 01:07:16 In >>	じゅん1024
+2024.02.29 01:07:16 In >>	じゃんぬ
+2024.02.29 01:07:16 In >>	チロ＜tiro＞
+2024.02.29 01:07:16 In >>	ジードルーブ_GeedM421
+2024.02.29 01:07:16 In >>	もん ／ Montblanc
+2024.02.29 01:07:16 In >>	もん ／ Montblanc
+2024.02.29 01:07:16 Video	'https://www.youtube.com/watch?v=1wSvAH3LQZk'
+2024.02.29 01:16:25 Out<<	じゅん1024
+2024.02.29 01:16:25 Out<<	じゃんぬ
+2024.02.29 01:16:25 Out<<	チロ＜tiro＞
+2024.02.29 01:16:25 Out<<	ジードルーブ_GeedM421
+2024.02.29 01:16:25 Out<<	もん ／ Montblanc
+2024.02.29 01:16:25 Out<<	もん ／ Montblanc
+2024.02.29 01:16:46 Enter	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:49890~private(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.02.29 01:16:51 Video	'https://youtu.be/GtEpCZcHRkw?si=4jHspOM9JNYIMe0L'
+2024.02.29 01:16:51 In >>	もん ／ Montblanc
+2024.02.29 01:19:17 Video	'https://youtu.be/dTdOia96mLc?si=SA1fxfygqg-1d1AS'
+2024.02.29 01:21:39 Video	'https://youtu.be/ot1BlIXHsDI?si=SnTdB4-pqHqZWol2'
+2024.02.29 01:22:10 Quit	1007.582
+2024.02.29 01:22:10 Out<<	もん ／ Montblanc
+2024.02.29 01:22:12 Quit	1009.641
+*******************************
+  /mnt/c/Users/montb/AppData/LocalLow/VRChat/VRChat/output_log_2024-02-29_22-03-08.txt
+*******************************
+2024.02.29 22:03:34 Enter	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:81649~private(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.02.29 22:03:36 Video	'https://youtu.be/GtEpCZcHRkw?si=4jHspOM9JNYIMe0L'
+2024.02.29 22:03:36 In >>	もん ／ Montblanc
+2024.02.29 22:04:23 Out<<	もん ／ Montblanc
+2024.02.29 22:04:41 Enter	wrld_69f3f14b-784d-456c-b32d-73c3601a2a75:37996~hidden(usr_42bb121e-5994-4db5-a228-c81798382e74)~region(jp)
+2024.02.29 22:04:48 In >>	evecremie（イヴ）
+2024.02.29 22:04:48 In >>	むいむーい
+2024.02.29 22:04:48 In >>	こふーさん
+2024.02.29 22:04:48 In >>	おぼぁ／obor
+2024.02.29 22:04:48 In >>	Amasaki
+2024.02.29 22:04:48 In >>	nigo3
+2024.02.29 22:04:48 In >>	マグマン
+2024.02.29 22:04:48 In >>	もん ／ Montblanc
+2024.02.29 22:04:48 Video	'https://youtu.be/F8oowKzNIlU?si=0k7hnucmFZEc-9ja'
+2024.02.29 22:07:00 In >>	よしゆ～
+2024.02.29 22:07:01 In >>	チロ＜tiro＞
+2024.02.29 22:09:47 Video	'https://youtu.be/cDbh3lLi1ZY?si=wosBQ7oBzeL4jo-w'
+2024.02.29 22:11:47 In >>	Shiryu․jp
+2024.02.29 22:12:14 In >>	しあんㅤ
+2024.02.29 22:12:30 Video	'https://youtu.be/DtX5eTb3hGQ?si=bvPuipxRRZMmhw0m'
+2024.02.29 22:14:22 Video	'https://youtu.be/C7atlm_ZrT8?si=77N7Q90InSYQak45'
+2024.02.29 22:14:50 In >>	ほしぞらー
+2024.02.29 22:15:48 Out<<	こふーさん
+2024.02.29 22:15:50 Out<<	evecremie（イヴ）
+2024.02.29 22:15:51 Out<<	マグマン
+2024.02.29 22:15:51 Out<<	nigo3
+2024.02.29 22:15:55 Out<<	むいむーい
+2024.02.29 22:16:07 Out<<	チロ＜tiro＞
+2024.02.29 22:16:25 Out<<	ほしぞらー
+2024.02.29 22:16:32 Video	'https://youtu.be/djOYp-jFYlY?si=0RSOAVFsxING2FoG'
+2024.02.29 22:16:38 Out<<	おぼぁ／obor
+2024.02.29 22:16:41 Quit	814.6755
+2024.02.29 22:16:41 Out<<	Amasaki
+2024.02.29 22:16:41 Out<<	もん ／ Montblanc
+2024.02.29 22:16:41 Out<<	よしゆ～
+2024.02.29 22:16:41 Out<<	Shiryu․jp
+2024.02.29 22:16:41 Out<<	しあんㅤ
+2024.02.29 22:16:43 Quit	816.6706
+*******************************
+  /mnt/c/Users/montb/AppData/LocalLow/VRChat/VRChat/output_log_2024-03-01_00-02-54.txt
+*******************************
+2024.03.01 00:03:18 Enter	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:72996~private(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.03.01 00:03:20 Video	'https://youtu.be/GtEpCZcHRkw?si=4jHspOM9JNYIMe0L'
+2024.03.01 00:03:20 In >>	もん ／ Montblanc
+2024.03.01 00:03:44 Out<<	もん ／ Montblanc
+2024.03.01 00:04:01 Video	'https://www.youtube.com/channel/UCq85Ke7_2X_Zu28OTnfLKsA/live'
+2024.03.01 00:04:04 Enter	wrld_84a3d778-88f6-4b6d-a975-62d0d9c09c64:88516~friends(usr_42bb121e-5994-4db5-a228-c81798382e74)~region(jp)
+2024.03.01 00:04:11 In >>	おぼぁ／obor
+2024.03.01 00:04:11 In >>	とぽす／Topos
+2024.03.01 00:04:11 In >>	ヒグニア
+2024.03.01 00:04:11 In >>	evecremie（イヴ）
+2024.03.01 00:04:11 In >>	むいむーい
+2024.03.01 00:04:11 In >>	こふーさん
+2024.03.01 00:04:11 In >>	チロ＜tiro＞
+2024.03.01 00:04:11 In >>	ほしぞらー
+2024.03.01 00:04:11 In >>	たけさん
+2024.03.01 00:04:11 In >>	nigo3
+2024.03.01 00:04:11 In >>	アルカリ0219
+2024.03.01 00:04:11 In >>	マグマン
+2024.03.01 00:04:11 In >>	もん ／ Montblanc
+2024.03.01 00:04:11 Video	'https://www.youtube.com/watch?v=45jVIAPxm5M'
+2024.03.01 00:05:23 In >>	UmiNekoOrca
+2024.03.01 00:10:41 Out<<	むいむーい
+2024.03.01 00:12:33 Out<<	UmiNekoOrca
+2024.03.01 00:13:43 Quit	651.5939
+2024.03.01 00:13:43 Out<<	おぼぁ／obor
+2024.03.01 00:13:43 Out<<	とぽす／Topos
+2024.03.01 00:13:43 Out<<	ヒグニア
+2024.03.01 00:13:43 Out<<	evecremie（イヴ）
+2024.03.01 00:13:43 Out<<	こふーさん
+2024.03.01 00:13:43 Out<<	チロ＜tiro＞
+2024.03.01 00:13:43 Out<<	ほしぞらー
+2024.03.01 00:13:43 Out<<	たけさん
+2024.03.01 00:13:43 Out<<	nigo3
+2024.03.01 00:13:43 Out<<	アルカリ0219
+2024.03.01 00:13:43 Out<<	マグマン
+2024.03.01 00:13:43 Out<<	もん ／ Montblanc
+2024.03.01 00:13:45 Quit	653.631
+*******************************
+  /mnt/c/Users/montb/AppData/LocalLow/VRChat/VRChat/output_log_2024-04-20_14-00-33.txt
+*******************************
+2024.04.20 14:00:51 Enter	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:80707~friends(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.04.20 14:01:01 In >>	もん ／ Montblanc
+2024.04.20 14:01:02 Video	'https://youtu.be/T_pVQ3osPG4?si=3ubMKGN22v1-MP5H'
+2024.04.20 14:01:08 Video	'https://youtu.be/d8VxJGByJhE?si=9asNyZsakhOp7qNh'
+2024.04.20 14:03:14 Video	'https://youtu.be/yfw4DSFI88g?si=ZBNZe5npql2suSm7'
+2024.04.20 14:07:02 Video	'https://youtu.be/ot1BlIXHsDI?si=SnTdB4-pqHqZWol2'
+2024.04.20 14:10:49 Video	'https://youtu.be/EUc4IfU173Q?si=dwiLXBZPlqA9p4mj'
+2024.04.20 14:12:45 Enter	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:62963~friends(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.04.20 14:12:57 In >>	もん ／ Montblanc
+2024.04.20 14:12:58 Video	'https://youtu.be/ot1BlIXHsDI?si=SnTdB4-pqHqZWol2'
+2024.04.20 14:13:04 Video	'https://youtu.be/9BTuJ7nMqQM?si=kyaL_Hx-1jnuyNxz'
+2024.04.20 14:13:30 Video	'https://youtu.be/lzr1_zf9gu8?si=tc0A0Ttm-yFEMMcb'
+2024.04.20 14:15:05 Rejn	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:62963~friends(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.04.20 14:15:14 Enter	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:62963~friends(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.04.20 14:15:22 In >>	もん ／ Montblanc
+2024.04.20 14:15:22 Video	'https://youtu.be/aJ4MqRfgz6s?si=mj1b3N73sxovYN14'
+2024.04.20 14:15:28 Video	'https://youtu.be/d8VxJGByJhE?si=9asNyZsakhOp7qNh'
+2024.04.20 14:17:35 Video	'https://youtu.be/62EBf1yyZ-w?si=5UkvyEaPmzK5OvyR'
+2024.04.20 14:19:59 Video	'https://youtu.be/GtEpCZcHRkw?si=4jHspOM9JNYIMe0L'
+2024.04.20 14:20:48 Rejn	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:62963~friends(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.04.20 14:20:57 Enter	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:62963~friends(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.04.20 14:21:08 In >>	もん ／ Montblanc
+2024.04.20 14:21:08 Video	'https://youtu.be/EUc4IfU173Q?si=dwiLXBZPlqA9p4mj'
+2024.04.20 14:21:14 Video	'https://youtu.be/T_pVQ3osPG4?si=3ubMKGN22v1-MP5H'
+2024.04.20 14:21:36 Video	'https://youtu.be/9BTuJ7nMqQM?si=kyaL_Hx-1jnuyNxz'
+2024.04.20 14:21:43 Video	'https://youtu.be/5Ee8kDRlyzA?si=2LNBss_bqjj7fN48'
+2024.04.20 14:22:15 Video	'https://youtu.be/RXEHUntC2ps?si=GpXD5J-dtwyoIFnU'
+2024.04.20 14:22:50 Video	'https://youtu.be/qq1UEeS1a7c?si=oEfnkIG0ETW3LzVD'
+2024.04.20 14:26:04 Video	'https://youtu.be/zsCD5XCu6CM?si=LGMOKvvcoge8Ocg5'
+2024.04.20 14:29:54 Video	'https://youtu.be/raKxf5M30Qc?si=dYpiiKNkFEkpUIW7'
+2024.04.20 14:32:58 Video	'https://youtu.be/vjVkXlxsO8Q?si=1cLqflaZTwJyzwEO'
+2024.04.20 14:36:14 Video	'https://youtu.be/4qlCC1GOwFw?si=6OOc9nRZPBH0iN5t'
+2024.04.20 14:39:15 Video	'https://youtu.be/kXYiU_JCYtU?si=xxM2NOyvb4hCC5Gv'
+2024.04.20 14:42:26 Video	'https://youtu.be/LYU-8IFcDPw?si=55Rz4-H2N8_tO8qj'
+2024.04.20 14:45:17 Video	'https://youtu.be/Gd9OhYroLN0?si=DyrE_ybz9s-ML3aq'
+2024.04.20 14:48:58 Video	'https://youtu.be/qq1UEeS1a7c?si=oEfnkIG0ETW3LzVD'
+2024.04.20 14:52:11 Video	'https://youtu.be/zsCD5XCu6CM?si=LGMOKvvcoge8Ocg5'
+2024.04.20 14:56:00 Video	'https://youtu.be/raKxf5M30Qc?si=dYpiiKNkFEkpUIW7'
+2024.04.20 14:59:05 Video	'https://youtu.be/vjVkXlxsO8Q?si=1cLqflaZTwJyzwEO'
+2024.04.20 15:02:21 Video	'https://youtu.be/4qlCC1GOwFw?si=6OOc9nRZPBH0iN5t'
+2024.04.20 15:05:22 Video	'https://youtu.be/kXYiU_JCYtU?si=xxM2NOyvb4hCC5Gv'
+2024.04.20 15:08:32 Video	'https://youtu.be/LYU-8IFcDPw?si=55Rz4-H2N8_tO8qj'
+2024.04.20 15:11:24 Video	'https://youtu.be/Gd9OhYroLN0?si=DyrE_ybz9s-ML3aq'
+2024.04.20 15:15:04 Video	'https://youtu.be/qq1UEeS1a7c?si=oEfnkIG0ETW3LzVD'
+2024.04.20 15:18:18 Video	'https://youtu.be/zsCD5XCu6CM?si=LGMOKvvcoge8Ocg5'
+2024.04.20 15:22:07 Video	'https://youtu.be/raKxf5M30Qc?si=dYpiiKNkFEkpUIW7'
+2024.04.20 15:25:12 Video	'https://youtu.be/vjVkXlxsO8Q?si=1cLqflaZTwJyzwEO'
+2024.04.20 15:28:28 Video	'https://youtu.be/4qlCC1GOwFw?si=6OOc9nRZPBH0iN5t'
+2024.04.20 15:31:28 Video	'https://youtu.be/kXYiU_JCYtU?si=xxM2NOyvb4hCC5Gv'
+2024.04.20 15:34:39 Video	'https://youtu.be/LYU-8IFcDPw?si=55Rz4-H2N8_tO8qj'
+2024.04.20 15:37:31 Video	'https://youtu.be/Gd9OhYroLN0?si=DyrE_ybz9s-ML3aq'
+2024.04.20 15:41:11 Video	'https://youtu.be/qq1UEeS1a7c?si=oEfnkIG0ETW3LzVD'
+2024.04.20 15:44:25 Video	'https://youtu.be/zsCD5XCu6CM?si=LGMOKvvcoge8Ocg5'
+2024.04.20 15:48:14 Video	'https://youtu.be/raKxf5M30Qc?si=dYpiiKNkFEkpUIW7'
+2024.04.20 15:51:19 Video	'https://youtu.be/vjVkXlxsO8Q?si=1cLqflaZTwJyzwEO'
+2024.04.20 15:54:35 Video	'https://youtu.be/4qlCC1GOwFw?si=6OOc9nRZPBH0iN5t'
+2024.04.20 15:57:35 Video	'https://youtu.be/kXYiU_JCYtU?si=xxM2NOyvb4hCC5Gv'
+2024.04.20 16:00:47 Video	'https://youtu.be/LYU-8IFcDPw?si=55Rz4-H2N8_tO8qj'
+2024.04.20 16:03:38 Video	'https://youtu.be/Gd9OhYroLN0?si=DyrE_ybz9s-ML3aq'
+2024.04.20 16:07:19 Video	'https://youtu.be/qq1UEeS1a7c?si=oEfnkIG0ETW3LzVD'
+2024.04.20 16:10:32 Video	'https://youtu.be/zsCD5XCu6CM?si=LGMOKvvcoge8Ocg5'
+2024.04.20 16:14:22 Video	'https://youtu.be/raKxf5M30Qc?si=dYpiiKNkFEkpUIW7'
+2024.04.20 16:14:50 Video	'https://youtu.be/SmWVGN9DXC0?si=y0YbsO8Td0_7ApWI'
+2024.04.20 16:18:26 Video	'https://youtu.be/T7juNI3oZtM?si=mikNolXfjPYxKCOb'
+2024.04.20 16:21:06 Video	'https://youtu.be/HCgkeQWbuZs?si=ToeQUlShUB1zrbvj'
+2024.04.20 16:25:52 Video	'https://youtu.be/TTfCzJ07gf4?si=88Ou1IhaiLON1VhA'
+2024.04.20 16:32:11 Video	'https://youtu.be/_Cj9fzXFaVk?si=9Jl960hQPpAxlwvY'
+2024.04.20 16:34:40 Video	'https://youtu.be/DN18vCy9a9E?si=sjvpRsHKCCzcLAOi'
+2024.04.20 16:37:19 Video	'https://youtu.be/kN1n-Y_Swuk?si=MsT82vtWETkzqd45'
+2024.04.20 16:41:48 Video	'https://youtu.be/7SdRqxyuhNA?si=apIbGjhO7lzJTvSA'
+2024.04.20 16:51:55 Video	'https://youtu.be/wnrz8LXdIaI?si=WgMlK6m7fiqvc9CA'
+2024.04.20 16:54:51 Video	'https://youtu.be/0cMPRHHizbM?si=arkTZtBV6XCaLB9Z'
+2024.04.20 16:56:33 Video	'https://youtu.be/0cMPRHHizbM?si=arkTZtBV6XCaLB9Z'
+2024.04.20 16:58:15 Video	'https://youtu.be/tu7zMXofx-0?si=WJFuj6pHwwbWsiai'
+2024.04.20 17:00:37 Video	'https://youtu.be/5obWELl1sjo?si=_BDhOpUOEmQuBPXW'
+2024.04.20 17:02:51 Video	'https://youtu.be/GtEpCZcHRkw?si=4jHspOM9JNYIMe0L'
+2024.04.20 17:05:15 Video	'https://youtu.be/SmWVGN9DXC0?si=y0YbsO8Td0_7ApWI'
+2024.04.20 17:08:51 Video	'https://youtu.be/T7juNI3oZtM?si=mikNolXfjPYxKCOb'
+2024.04.20 17:11:32 Video	'https://youtu.be/HCgkeQWbuZs?si=ToeQUlShUB1zrbvj'
+2024.04.20 17:16:16 Video	'https://youtu.be/TTfCzJ07gf4?si=88Ou1IhaiLON1VhA'
+2024.04.20 17:22:34 Video	'https://youtu.be/_Cj9fzXFaVk?si=9Jl960hQPpAxlwvY'
+2024.04.20 17:25:04 Video	'https://youtu.be/DN18vCy9a9E?si=sjvpRsHKCCzcLAOi'
+2024.04.20 17:27:43 Video	'https://youtu.be/kN1n-Y_Swuk?si=MsT82vtWETkzqd45'
+2024.04.20 17:32:12 Video	'https://youtu.be/7SdRqxyuhNA?si=apIbGjhO7lzJTvSA'
+2024.04.20 17:42:16 Video	'https://youtu.be/wnrz8LXdIaI?si=WgMlK6m7fiqvc9CA'
+2024.04.20 17:45:12 Video	'https://youtu.be/0cMPRHHizbM?si=arkTZtBV6XCaLB9Z'
+2024.04.20 17:46:54 Video	'https://youtu.be/0cMPRHHizbM?si=arkTZtBV6XCaLB9Z'
+2024.04.20 17:48:35 Video	'https://youtu.be/tu7zMXofx-0?si=WJFuj6pHwwbWsiai'
+2024.04.20 17:50:56 Video	'https://youtu.be/5obWELl1sjo?si=_BDhOpUOEmQuBPXW'
+2024.04.20 17:53:08 Video	'https://youtu.be/GtEpCZcHRkw?si=4jHspOM9JNYIMe0L'
+2024.04.20 17:55:31 Video	'https://youtu.be/SmWVGN9DXC0?si=y0YbsO8Td0_7ApWI'
+2024.04.20 17:59:07 Video	'https://youtu.be/T7juNI3oZtM?si=mikNolXfjPYxKCOb'
+2024.04.20 18:01:46 Video	'https://youtu.be/HCgkeQWbuZs?si=ToeQUlShUB1zrbvj'
+2024.04.20 18:01:50 In >>	chiffon_pudding
+2024.04.20 18:03:40 In >>	つくなぎ
+2024.04.20 18:06:30 Video	'https://youtu.be/TTfCzJ07gf4?si=88Ou1IhaiLON1VhA'
+2024.04.20 18:08:16 In >>	Starcat_JP
+2024.04.20 18:12:49 Video	'https://youtu.be/_Cj9fzXFaVk?si=9Jl960hQPpAxlwvY'
+2024.04.20 18:15:17 Video	'https://youtu.be/DN18vCy9a9E?si=sjvpRsHKCCzcLAOi'
+2024.04.20 18:15:18 In >>	シェリル（Cheryl_MC）
+2024.04.20 18:17:57 Video	'https://youtu.be/kN1n-Y_Swuk?si=MsT82vtWETkzqd45'
+2024.04.20 18:22:25 Video	'https://youtu.be/7SdRqxyuhNA?si=apIbGjhO7lzJTvSA'
+2024.04.20 18:29:42 In >>	ほしぞらー
+2024.04.20 18:32:30 Video	'https://youtu.be/wnrz8LXdIaI?si=WgMlK6m7fiqvc9CA'
+2024.04.20 18:35:26 Video	'https://youtu.be/0cMPRHHizbM?si=arkTZtBV6XCaLB9Z'
+2024.04.20 18:37:07 Video	'https://youtu.be/0cMPRHHizbM?si=arkTZtBV6XCaLB9Z'
+2024.04.20 18:38:48 Video	'https://youtu.be/tu7zMXofx-0?si=WJFuj6pHwwbWsiai'
+2024.04.20 18:41:06 Video	'https://youtu.be/5obWELl1sjo?si=_BDhOpUOEmQuBPXW'
+2024.04.20 18:43:17 Video	'https://youtu.be/GtEpCZcHRkw?si=4jHspOM9JNYIMe0L'
+2024.04.20 18:45:41 Video	'https://youtu.be/SmWVGN9DXC0?si=y0YbsO8Td0_7ApWI'
+2024.04.20 18:49:16 Video	'https://youtu.be/T7juNI3oZtM?si=mikNolXfjPYxKCOb'
+2024.04.20 18:49:31 Video	'https://www.youtube.com/watch?v=5UNDwg9mJeQ&pp=ygUbZiB6ZXJvIHBvcnQgdG93biBtaWRpIHJlbm94'
+2024.04.20 18:56:48 Quit	17778
+2024.04.20 18:56:48 Out<<	もん ／ Montblanc
+2024.04.20 18:56:48 Out<<	chiffon_pudding
+2024.04.20 18:56:48 Out<<	つくなぎ
+2024.04.20 18:56:48 Out<<	Starcat_JP
+2024.04.20 18:56:48 Out<<	シェリル（Cheryl_MC）
+2024.04.20 18:56:48 Out<<	ほしぞらー
+2024.04.20 18:56:50 Quit	17779.99
+*******************************
+  /mnt/c/Users/montb/AppData/LocalLow/VRChat/VRChat/output_log_2024-04-20_18-57-14.txt
+*******************************
+2024.04.20 18:57:34 Enter	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:52560~friends(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.04.20 18:57:42 In >>	もん ／ Montblanc
+2024.04.20 18:57:42 Video	'https://youtu.be/aJ4MqRfgz6s?si=mj1b3N73sxovYN14'
+2024.04.20 18:57:48 Video	'https://youtu.be/yfw4DSFI88g?si=ZBNZe5npql2suSm7'
+2024.04.20 18:57:51 Enter	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:62963~friends(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.04.20 18:57:59 In >>	ほしぞらー
+2024.04.20 18:57:59 In >>	シェリル（Cheryl_MC）
+2024.04.20 18:57:59 In >>	Starcat_JP
+2024.04.20 18:57:59 In >>	つくなぎ
+2024.04.20 18:57:59 In >>	chiffon_pudding
+2024.04.20 18:57:59 In >>	もん ／ Montblanc
+2024.04.20 18:57:59 Video	'https://www.youtube.com/watch?v=zpSJJITti9E'
+2024.04.20 18:59:54 Video	'https://www.youtube.com/watch?v=I-nU1yLlza4&pp=ygUkbWFyaW8ga2FydCA4IGRlbHV4ZSBjb2NvbXV0IG1hbGwgb3N0'
+2024.04.20 19:03:44 Video	'https://www.youtube.com/watch?v=HA3i00Nna8M'
+2024.04.20 19:07:01 Video	'https://youtu.be/EUc4IfU173Q?si=dwiLXBZPlqA9p4mj'
+2024.04.20 19:08:52 Video	'https://youtu.be/P3alQQjPOP0?si=pK_TNxAxXupsv3ob'
+2024.04.20 19:09:12 Video	'https://www.youtube.com/watch?v=eQMri29IJEI'
+2024.04.20 19:12:20 Video	'https://video.twimg.com/ext_tw_video/794377097816870912/pu/vid/960x720/OIJqXKSSQ9NtM04S.mp4'
+2024.04.20 19:14:05 Video	'https://youtu.be/X-tEcProt54?si=bE2lSKX9tCMxVmHc'
+2024.04.20 19:14:57 Video	'https://youtu.be/SqRzDEtEwtc?si=h6UGnNqZDCoEwZ9e'
+2024.04.20 19:16:15 Video	'https://youtu.be/56LNo0B_d64?si=8mdCGBeT8d0GrY3z'
+2024.04.20 19:19:54 Out<<	chiffon_pudding
+2024.04.20 19:20:58 Video	'https://www.youtube.com/watch?v=BRfMDUgPDow'
+2024.04.20 19:26:16 Video	'https://www.youtube.com/watch?v=xFDFCg0xrec&pp=ygUp44Oe44Oq44KqIOOCueODqeOCpOODgOODvCDogLPjgrPjg5QgcmVub3g%3D'
+2024.04.20 19:29:00 Video	'https://youtu.be/5dM5rh-HsTU?si=gU96OZYKTWrPoWdg'
+2024.04.20 19:30:43 Video	'https://youtu.be/594aUuWMiOE?si=_d2DRSwsVjVJSJjT'
+2024.04.20 19:32:44 Video	'https://youtu.be/OWscdgiDHpo?si=DiprRVWR6e0ixkou'
+2024.04.20 19:37:45 Video	'https://www.youtube.com/watch?v=4ppasEQ2OmE&pp=ygUa44Oe44Oq44KqICDogLPjgrPjg5QgcmVub3g%3D'
+2024.04.20 19:40:45 Video	'https://www.youtube.com/watch?v=oL4EDRGVW6w'
+2024.04.20 19:41:56 Out<<	ほしぞらー
+2024.04.20 19:42:42 Video	'https://www.youtube.com/watch?v=V-of_CDv_DU'
+2024.04.20 19:45:33 Video	'https://youtu.be/AYOgoCBaAFs?si=QtT_-HOooxCGNX_A'
+2024.04.20 19:48:09 Out<<	つくなぎ
+2024.04.20 19:48:36 Video	'https://youtu.be/p5M9q2wCllU?si=ddNmzC-XNcjyi0a_'
+2024.04.20 19:52:38 Video	'https://youtu.be/4t2FwsgUCuw?si=5emw2e8Y6BKPE937'
+2024.04.20 19:54:37 Video	'https://youtu.be/QRRfDwMrWkA?si=MuVImj9Ij9tuiaEr'
+2024.04.20 19:56:39 Video	'https://youtu.be/M2ReZNa4lDI?si=YTPxY9uo-XP25JBN'
+2024.04.20 19:57:38 Video	'https://youtu.be/6QTqdCHcuNQ?si=7Spls4ruolvRhMHN'
+2024.04.20 20:00:50 Video	'https://video.twimg.com/ext_tw_video/1749046403945664512/pu/vid/avc1/960x540/16JUkJm39RRzIwI0.mp4'
+2024.04.20 20:01:53 Out<<	シェリル（Cheryl_MC）
+2024.04.20 20:02:14 Video	'https://youtu.be/knHvJDuLrtY?si=l8vG8JUhCfGQLk6G'
+2024.04.20 20:02:48 In >>	シェリル（Cheryl_MC）
+2024.04.20 20:16:22 Video	'https://www.youtube.com/watch?v=ME74bfi4nxc'
+2024.04.20 20:22:50 Video	'https://www.youtube.com/watch?v=2_4oXc1rvvI'
+2024.04.20 20:28:17 In >>	しろくま。
+2024.04.20 20:31:47 In >>	taityan72
+2024.04.20 20:33:22 Video	'https://www.youtube.com/watch?v=2_4oXc1rvvI'
+2024.04.20 20:33:32 Video	'https://www.youtube.com/watch?v=ALe7wFWXFuE'
+2024.04.20 20:36:29 Quit	5955.979
+2024.04.20 20:36:29 Out<<	Starcat_JP
+2024.04.20 20:36:29 Out<<	もん ／ Montblanc
+2024.04.20 20:36:29 Out<<	シェリル（Cheryl_MC）
+2024.04.20 20:36:29 Out<<	しろくま。
+2024.04.20 20:36:29 Out<<	taityan72
+2024.04.20 20:36:31 Quit	5958.012
+*******************************
+  /mnt/c/Users/montb/AppData/LocalLow/VRChat/VRChat/output_log_2024-04-20_20-37-32.txt
+*******************************
+2024.04.20 20:37:50 Enter	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:04947~friends(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.04.20 20:38:01 In >>	もん ／ Montblanc
+2024.04.20 20:38:02 Video	'https://youtu.be/aJ4MqRfgz6s?si=mj1b3N73sxovYN14'
+2024.04.20 20:38:08 Video	'https://youtu.be/SFzS3eTkoew?si=EijPPzWCyD4q8Yi3'
+2024.04.20 20:38:14 Enter	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:62963~friends(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.04.20 20:38:23 In >>	taityan72
+2024.04.20 20:38:23 In >>	しろくま。
+2024.04.20 20:38:23 In >>	シェリル（Cheryl_MC）
+2024.04.20 20:38:23 In >>	Starcat_JP
+2024.04.20 20:38:23 In >>	もん ／ Montblanc
+2024.04.20 20:38:23 Video	'https://www.youtube.com/watch?v=ALe7wFWXFuE'
+2024.04.20 20:42:07 Video	'https://www.youtube.com/watch?v=Jit8-iNSx3A'
+2024.04.20 20:47:58 Video	'https://www.youtube.com/watch?v=Yqbl2QIYDPg'
+2024.04.20 20:52:04 Video	'https://www.youtube.com/watch?v=NW0PxVi1Qfw'
+2024.04.20 20:59:47 Video	'https://www.youtube.com/watch?v=Xu1Z3ZIZ0EU'
+2024.04.20 21:10:34 Video	'https://www.youtube.com/watch?v=wSPkN2XERco'
+2024.04.20 21:27:25 Video	'https://www.youtube.com/watch?v=jGGmSIoXlsY'
+2024.04.20 21:36:51 Out<<	しろくま。
+2024.04.20 21:37:51 Out<<	taityan72
+2024.04.20 21:58:19 Video	'https://youtu.be/GtEpCZcHRkw?si=4jHspOM9JNYIMe0L'
+2024.04.20 22:00:43 Video	'https://youtu.be/qC9Ri2hZsos?si=mc_ZUUtLNoxRtrqw'
+2024.04.20 22:02:22 Video	'https://www.youtube.com/watch?v=Jit8-iNSx3A'
+2024.04.20 22:07:13 In >>	chiffon_pudding
+2024.04.20 22:13:00 Video	'https://www.youtube.com/watch?v=FRGD2zkAeSw'
+2024.04.20 22:15:18 Out<<	chiffon_pudding
+2024.04.20 22:32:42 Video	'https://www.youtube.com/watch?v=yyocHuwpDPA&pp=ygUZ44Oa44Ok44Oz44KwIOOCueODiOOCvOODrQ%3D%3D'
+2024.04.20 22:48:27 Video	'https://www.youtube.com/watch?v=zR6fECxF44I'
+2024.04.20 22:49:19 In >>	todozarashi
+2024.04.20 22:50:58 Video	'https://www.youtube.com/watch?v=rhCNkxnR_FU&pp=ygUc44OT44O844Oe44OL44Od44Kx44OD44OIMjAwMA%3D%3D'
+2024.04.20 22:52:20 Video	'https://www.youtube.com/watch?v=2_4oXc1rvvI'
+2024.04.20 22:52:35 In >>	たけさん
+2024.04.20 22:54:26 Video	'https://www.youtube.com/watch?v=50fSRjXOpjo&t=88s'
+2024.04.20 22:58:18 Out<<	たけさん
+2024.04.20 23:01:51 In >>	たけさん
+2024.04.20 23:02:07 Video	'https://youtube.com/live/ilVPaLXBdzU'
+2024.04.20 23:06:47 In >>	chiffon_pudding
+2024.04.20 23:14:59 Out<<	chiffon_pudding
+2024.04.20 23:29:55 Out<<	todozarashi
+2024.04.21 00:19:36 In >>	ジードルーブ_GeedM421
+2024.04.21 00:27:12 Video	'https://youtube.com/live/L25Jsl8EpZA'
+2024.04.21 00:33:56 Out<<	シェリル（Cheryl_MC）
+2024.04.21 00:52:10 In >>	くぅﾁｬﾝ
+2024.04.21 00:53:10 Out<<	ジードルーブ_GeedM421
+2024.04.21 00:55:16 Quit	15462.84
+2024.04.21 00:55:16 Out<<	Starcat_JP
+2024.04.21 00:55:18 Quit	15464.78
+2024.04.21 00:55:18 Out<<	たけさん
+*******************************
+  /mnt/c/Users/montb/AppData/LocalLow/VRChat/VRChat/output_log_2024-04-21_10-52-40.txt
+*******************************
+2024.04.21 10:53:03 Enter	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:25434~friends(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.04.21 10:53:11 In >>	もん ／ Montblanc
+2024.04.21 10:53:12 Video	'https://youtu.be/qGK3Y9FnmSY?si=cSn0qpLbDwpHMd2K'
+2024.04.21 10:53:18 Video	'https://youtu.be/dTdOia96mLc?si=SA1fxfygqg-1d1AS'
+2024.04.21 10:53:33 Enter	wrld_531e2ed0-cabe-43d7-ba82-b6933923a36b:62963~friends(usr_75b556cc-f123-44c5-8409-15974da68e89)~region(jp)
+2024.04.21 10:53:43 In >>	れあれあ
+2024.04.21 10:53:43 In >>	もん ／ Montblanc
+2024.04.21 10:53:43 Video	'https://www.youtube.com/watch?v=dWsarJCJqV0'
+2024.04.21 10:56:04 Enter	wrld_e8072442-0827-45bb-93f2-2851f10ab27a:17135~friends(usr_42bb121e-5994-4db5-a228-c81798382e74)~region(jp)
+2024.04.21 10:56:15 In >>	おぼぁ／obor
+2024.04.21 10:56:15 In >>	evecremie（イヴ）
+2024.04.21 10:56:15 In >>	こふーさん
+2024.04.21 10:56:15 In >>	さぬさぬ ⁄ Sanusanu
+2024.04.21 10:56:15 In >>	もふけ_mofuK
+2024.04.21 10:56:15 In >>	Starcat_JP
+2024.04.21 10:56:15 In >>	ひがしねこ
+2024.04.21 10:56:15 In >>	とぽす／Topos
+2024.04.21 10:56:15 In >>	もん ／ Montblanc
+2024.04.21 10:56:15 Video	'https://www.youtube.com/watch?v=KQ0SaBVKeVs'
+2024.04.21 11:04:24 Out<<	さぬさぬ ⁄ Sanusanu
+2024.04.21 11:11:22 Out<<	とぽす／Topos
+2024.04.21 11:14:35 In >>	さぬさぬ ⁄ Sanusanu
+2024.04.21 11:21:11 Out<<	ひがしねこ
+2024.04.21 11:38:43 Out<<	おぼぁ／obor
+2024.04.21 11:41:13 Out<<	Starcat_JP
+2024.04.21 11:43:59 Out<<	evecremie（イヴ）
+2024.04.21 14:16:21 In >>	Starcat_JP
+2024.04.21 14:26:03 Out<<	さぬさぬ ⁄ Sanusanu
+2024.04.21 14:26:05 Quit	12806.68
+2024.04.21 14:26:05 Out<<	こふーさん
+2024.04.21 14:26:05 Out<<	もふけ_mofuK
+2024.04.21 14:26:05 Out<<	もん ／ Montblanc
+2024.04.21 14:26:05 Out<<	Starcat_JP
+2024.04.21 14:26:07 Quit	12808.67
