@@ -4,7 +4,7 @@
         "[Video Playback] Attempting to resolve URL ":"Video\t",
         "[Behaviour] Joining wrld":"Enter\twrld",
         "[Behaviour] Rejoining local world: ":"Rejn\t",
-        "[Behaviour] OnPlayerJoinComplete ":"In >>\t",
+        "[Behaviour] OnPlayerJoinComplete ":"In>>\t",
         "[Behaviour] OnPlayerLeft ":"Out<<\t",
         "VRCApplication: OnApplicationQuit at ":"Quit\t"
     },

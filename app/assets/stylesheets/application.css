@@ -13,3 +13,34 @@
  *= require_tree .
  *= require_self
  */
+
+ /* テーブル全体のスタイル */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  /* テーブルの見出しスタイル */
+  th {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  /* テーブルのセルスタイル */
+  td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  
+  /* テーブルの奇数行の背景色 */
+  tr:nth-child(odd) {
+    background-color: #f9f9f9;
+  }
+  
+  /* テーブルのホバー時の背景色 */
+  tr:hover {
+    background-color: #f2f2f2;
+  }

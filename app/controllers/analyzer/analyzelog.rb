@@ -10,7 +10,7 @@ class Analyzelog
         out_path = config["out_path"]["dir"] + config["out_path"]["file"]
 
         lines_with_target = []
-        hash_datas = []
+        @hash_datum = []
 
         log_paths.each do |log_path|
             lines_with_target << "*******************************"
@@ -24,11 +24,12 @@ class Analyzelog
                         if cleaned_line.include?(target)
                             replaced_line = cleaned_line.gsub(target, replace_to).gsub("Log        -  ", "")
                             lines_with_target << replaced_line
-                            hash_datas << {
+                            @hash_datum << {
+                                file: log_path,
                                 date: replaced_line.split[0],
                                 time: replaced_line.split[1],
                                 type: replaced_line.split[2],
-                                info: replaced_line.split[3].split(/\t|:\d+/)[0]  # タブで区切る
+                                info: replaced_line.split[3].split(/\t|:\d+/)[0]
                             }
                         end
                     end
@@ -44,6 +45,6 @@ class Analyzelog
             end
         end
 
-        return hash_datas
+        return @hash_datum
     end
 end
