@@ -1,0 +1,19 @@
+{
+    "query":{
+        "Saving Avatar Data: ":"Avtr\t",
+        "[Video Playback] Attempting to resolve URL ":"Video\t",
+        "[Behaviour] Joining wrld":"Enter\twrld",
+        "[Behaviour] Rejoining local world: ":"Rejn\t",
+        "[Behaviour] OnPlayerJoinComplete ":"In >>\t",
+        "[Behaviour] OnPlayerLeft ":"Out<<\t",
+        "VRCApplication: OnApplicationQuit at ":"Quit\t"
+    },
+    "log_path":{
+        "dir":"/mnt/c/Users/montb/AppData/LocalLow/VRChat/VRChat/",
+        "file":"output_log*.txt"
+    },
+    "out_path":{
+        "dir":"./interm_data/",
+        "file":"output.txt"
+    }
+}
